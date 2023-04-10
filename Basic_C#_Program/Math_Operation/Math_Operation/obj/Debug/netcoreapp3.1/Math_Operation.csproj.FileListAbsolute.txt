@@ -1,0 +1,13 @@
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Math_Operation/Math_Operation/obj/Debug/netcoreapp3.1/Math_Operation.csproj.AssemblyReference.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Math_Operation/Math_Operation/obj/Debug/netcoreapp3.1/Math_Operation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Math_Operation/Math_Operation/obj/Debug/netcoreapp3.1/Math_Operation.AssemblyInfoInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Math_Operation/Math_Operation/obj/Debug/netcoreapp3.1/Math_Operation.AssemblyInfo.cs
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Math_Operation/Math_Operation/obj/Debug/netcoreapp3.1/Math_Operation.csproj.CoreCompileInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Math_Operation/Math_Operation/bin/Debug/netcoreapp3.1/Math_Operation.deps.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Math_Operation/Math_Operation/bin/Debug/netcoreapp3.1/Math_Operation.runtimeconfig.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Math_Operation/Math_Operation/bin/Debug/netcoreapp3.1/Math_Operation.runtimeconfig.dev.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Math_Operation/Math_Operation/bin/Debug/netcoreapp3.1/Math_Operation.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Math_Operation/Math_Operation/bin/Debug/netcoreapp3.1/Math_Operation.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Math_Operation/Math_Operation/obj/Debug/netcoreapp3.1/Math_Operation.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Math_Operation/Math_Operation/obj/Debug/netcoreapp3.1/Math_Operation.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Math_Operation/Math_Operation/obj/Debug/netcoreapp3.1/Math_Operation.genruntimeconfig.cache
