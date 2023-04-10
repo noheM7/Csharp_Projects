@@ -1,0 +1,13 @@
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/myConsoleProject.cs/myConsoleProject.cs/bin/Debug/netcoreapp3.1/myConsoleProject.cs.deps.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/myConsoleProject.cs/myConsoleProject.cs/bin/Debug/netcoreapp3.1/myConsoleProject.cs.runtimeconfig.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/myConsoleProject.cs/myConsoleProject.cs/bin/Debug/netcoreapp3.1/myConsoleProject.cs.runtimeconfig.dev.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/myConsoleProject.cs/myConsoleProject.cs/bin/Debug/netcoreapp3.1/myConsoleProject.cs.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/myConsoleProject.cs/myConsoleProject.cs/bin/Debug/netcoreapp3.1/myConsoleProject.cs.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/netcoreapp3.1/myConsoleProject.cs.csproj.AssemblyReference.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/netcoreapp3.1/myConsoleProject.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/netcoreapp3.1/myConsoleProject.cs.AssemblyInfoInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/netcoreapp3.1/myConsoleProject.cs.AssemblyInfo.cs
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/netcoreapp3.1/myConsoleProject.cs.csproj.CoreCompileInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/netcoreapp3.1/myConsoleProject.cs.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/netcoreapp3.1/myConsoleProject.cs.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/netcoreapp3.1/myConsoleProject.cs.genruntimeconfig.cache
