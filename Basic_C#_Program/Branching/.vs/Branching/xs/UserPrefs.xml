@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{7B4A7017-7C40-43EC-9582-D3E161CA1734}|Default">
-  <MonoDevelop.Ide.ItemProperties.Car__Insurance PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Car_Insurance/Program.cs">
+﻿<Properties StartupConfiguration="{53F760DF-DB28-486F-B0FF-9B5879D944C3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Branching/Program.cs">
     <Files>
-      <File FileName="Car_Insurance/Program.cs" Line="27" Column="19" />
+      <File FileName="Branching/Program.cs" Line="19" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Car_Insurance" expanded="True">
-            <Node name="Car_Insurance" expanded="True">
+          <Node name="Branching" expanded="True">
+            <Node name="Branching" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,6 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Branching PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
