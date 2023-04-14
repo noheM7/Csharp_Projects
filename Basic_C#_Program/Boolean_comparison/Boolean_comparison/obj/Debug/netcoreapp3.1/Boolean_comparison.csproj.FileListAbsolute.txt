@@ -1,0 +1,13 @@
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Boolean_comparison/Boolean_comparison/bin/Debug/netcoreapp3.1/Boolean_comparison.deps.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Boolean_comparison/Boolean_comparison/bin/Debug/netcoreapp3.1/Boolean_comparison.runtimeconfig.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Boolean_comparison/Boolean_comparison/bin/Debug/netcoreapp3.1/Boolean_comparison.runtimeconfig.dev.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Boolean_comparison/Boolean_comparison/bin/Debug/netcoreapp3.1/Boolean_comparison.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Boolean_comparison/Boolean_comparison/bin/Debug/netcoreapp3.1/Boolean_comparison.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Boolean_comparison/Boolean_comparison/obj/Debug/netcoreapp3.1/Boolean_comparison.csproj.AssemblyReference.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Boolean_comparison/Boolean_comparison/obj/Debug/netcoreapp3.1/Boolean_comparison.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Boolean_comparison/Boolean_comparison/obj/Debug/netcoreapp3.1/Boolean_comparison.AssemblyInfoInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Boolean_comparison/Boolean_comparison/obj/Debug/netcoreapp3.1/Boolean_comparison.AssemblyInfo.cs
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Boolean_comparison/Boolean_comparison/obj/Debug/netcoreapp3.1/Boolean_comparison.csproj.CoreCompileInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Boolean_comparison/Boolean_comparison/obj/Debug/netcoreapp3.1/Boolean_comparison.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Boolean_comparison/Boolean_comparison/obj/Debug/netcoreapp3.1/Boolean_comparison.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Boolean_comparison/Boolean_comparison/obj/Debug/netcoreapp3.1/Boolean_comparison.genruntimeconfig.cache
