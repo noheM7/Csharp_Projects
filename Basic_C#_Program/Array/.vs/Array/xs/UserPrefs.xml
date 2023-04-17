@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{93F50147-8F0A-4854-B1E1-4C851DA9B89B}|Default">
-  <MonoDevelop.Ide.ItemProperties.Boolean__comparison PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Boolean_comparison/Program.cs">
+﻿<Properties StartupConfiguration="{90C1492B-AA60-4FA1-AB50-D39B86F2F2E9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Array FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Array/Program.cs">
     <Files>
-      <File FileName="Boolean_comparison/Program.cs" Line="30" Column="2" />
+      <File FileName="Array/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Boolean_comparison" expanded="True">
-            <Node name="Boolean_comparison" expanded="True">
+          <Node name="Array" expanded="True">
+            <Node name="Array" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
