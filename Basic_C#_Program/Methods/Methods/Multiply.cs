@@ -5,8 +5,10 @@ namespace Methods
     {
         public static int multiply(int input )
         {
-            int result = (input * 32); 
-            return result;
+            int answer = (input * 32); 
+            return answer;
+           
         }
+       
     }
 }

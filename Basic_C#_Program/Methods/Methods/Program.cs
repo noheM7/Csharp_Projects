@@ -11,22 +11,27 @@ namespace Methods
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
             Console.WriteLine("Put in # to multiply by 32:");
-            int input = Convert.ToInt32(Console.ReadLine());
+            try
+            {
 
-            
-                int result = Multiplication.multiply(input);
-              
-                Console.WriteLine(result);
-            
-           
+                int input = Convert.ToInt32(Console.ReadLine());
 
 
+                int answer = Multiplication.multiply(input);
+
+                Console.WriteLine(answer);
+            }
+            catch(Exception)
+            {
+                Console.WriteLine( "Try again");
+            }
 
 
 
 
-        }
+
+
+            }
     }
 }
