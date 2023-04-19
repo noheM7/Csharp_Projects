@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{5C084922-C63D-4ED4-B086-89B568705387}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Console_App/Program.cs">
+﻿<Properties StartupConfiguration="{5DF3E602-3B74-4D04-85B9-46009F06C445}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Strings_and_Integers/Program.cs">
     <Files>
-      <File FileName="Console_App/Program.cs" Line="40" Column="17" />
+      <File FileName="Strings_and_Integers/Program.cs" Line="16" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Console_App" expanded="True">
-            <Node name="Console_App" expanded="True">
+          <Node name="Strings_and_Integers" expanded="True">
+            <Node name="Strings_and_Integers" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Console__App PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Strings__and__Integers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

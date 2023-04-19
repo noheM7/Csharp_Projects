@@ -1,0 +1,13 @@
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Strings_and_Integers/Strings_and_Integers/bin/Debug/netcoreapp3.1/Strings_and_Integers.deps.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Strings_and_Integers/Strings_and_Integers/bin/Debug/netcoreapp3.1/Strings_and_Integers.runtimeconfig.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Strings_and_Integers/Strings_and_Integers/bin/Debug/netcoreapp3.1/Strings_and_Integers.runtimeconfig.dev.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Strings_and_Integers/Strings_and_Integers/bin/Debug/netcoreapp3.1/Strings_and_Integers.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Strings_and_Integers/Strings_and_Integers/bin/Debug/netcoreapp3.1/Strings_and_Integers.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Strings_and_Integers/Strings_and_Integers/obj/Debug/netcoreapp3.1/Strings_and_Integers.csproj.AssemblyReference.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Strings_and_Integers/Strings_and_Integers/obj/Debug/netcoreapp3.1/Strings_and_Integers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Strings_and_Integers/Strings_and_Integers/obj/Debug/netcoreapp3.1/Strings_and_Integers.AssemblyInfoInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Strings_and_Integers/Strings_and_Integers/obj/Debug/netcoreapp3.1/Strings_and_Integers.AssemblyInfo.cs
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Strings_and_Integers/Strings_and_Integers/obj/Debug/netcoreapp3.1/Strings_and_Integers.csproj.CoreCompileInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Strings_and_Integers/Strings_and_Integers/obj/Debug/netcoreapp3.1/Strings_and_Integers.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Strings_and_Integers/Strings_and_Integers/obj/Debug/netcoreapp3.1/Strings_and_Integers.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Strings_and_Integers/Strings_and_Integers/obj/Debug/netcoreapp3.1/Strings_and_Integers.genruntimeconfig.cache
