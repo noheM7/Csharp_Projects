@@ -26,7 +26,7 @@ internal class Program
             int Array2 = Int32.Parse(Console.ReadLine());
             if (Array2 < intArray.Length)
             {
-                Console.WriteLine("The array # stored at index # " + Array2 + " is: " + intArray[Array2]);
+                Console.WriteLine("The array # stored at index #" + Array2 + " is: " + intArray[Array2]);
             }
             else
             {

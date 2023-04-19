@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{90C1492B-AA60-4FA1-AB50-D39B86F2F2E9}|Default">
-  <MonoDevelop.Ide.ItemProperties.Array PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Array/Program.cs">
+﻿<Properties StartupConfiguration="{5C084922-C63D-4ED4-B086-89B568705387}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Console_App/Program.cs">
     <Files>
-      <File FileName="Array/Program.cs" Line="29" Column="65" />
+      <File FileName="Console_App/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Array" expanded="True">
-            <Node name="Array" expanded="True">
+          <Node name="Console_App" expanded="True">
+            <Node name="Console_App" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,6 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Console__App FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
