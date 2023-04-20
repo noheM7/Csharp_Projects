@@ -1,15 +1,15 @@
-﻿<Properties StartupConfiguration="{694945C5-C718-42D6-91C5-E37BF6A97CE7}|Default">
-  <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Methods/Program.cs">
+﻿<Properties StartupConfiguration="{C3A6A2FE-5C53-4E04-9CBC-7635EBE30C67}|Default">
+  <MonoDevelop.Ide.ItemProperties.Main__method PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Main_method/Program.cs">
     <Files>
-      <File FileName="Methods/Program.cs" Line="44" Column="42" />
-      <File FileName="Methods/Card.cs" Line="20" Column="39" />
+      <File FileName="Main_method/Program.cs" Line="47" Column="6" />
+      <File FileName="Main_method/Math.cs" Line="24" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Methods" expanded="True">
-            <Node name="Methods" expanded="True">
+          <Node name="Main_method" expanded="True">
+            <Node name="Main_method" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

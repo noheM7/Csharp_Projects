@@ -1,0 +1,13 @@
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Main_method/Main_method/bin/Debug/netcoreapp3.1/Main_method.deps.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Main_method/Main_method/bin/Debug/netcoreapp3.1/Main_method.runtimeconfig.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Main_method/Main_method/bin/Debug/netcoreapp3.1/Main_method.runtimeconfig.dev.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Main_method/Main_method/bin/Debug/netcoreapp3.1/Main_method.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Main_method/Main_method/bin/Debug/netcoreapp3.1/Main_method.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Main_method/Main_method/obj/Debug/netcoreapp3.1/Main_method.csproj.AssemblyReference.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Main_method/Main_method/obj/Debug/netcoreapp3.1/Main_method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Main_method/Main_method/obj/Debug/netcoreapp3.1/Main_method.AssemblyInfoInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Main_method/Main_method/obj/Debug/netcoreapp3.1/Main_method.AssemblyInfo.cs
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Main_method/Main_method/obj/Debug/netcoreapp3.1/Main_method.csproj.CoreCompileInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Main_method/Main_method/obj/Debug/netcoreapp3.1/Main_method.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Main_method/Main_method/obj/Debug/netcoreapp3.1/Main_method.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Main_method/Main_method/obj/Debug/netcoreapp3.1/Main_method.genruntimeconfig.cache
