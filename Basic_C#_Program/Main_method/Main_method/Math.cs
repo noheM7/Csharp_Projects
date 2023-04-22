@@ -1,24 +1,29 @@
 ﻿using System;
 namespace Main_method
 {
-    public class Math
-    {
+    public  class Math
 
-        public static int multiply(int input, int input2)
+    {
+       // adding integers
+
+        public static int MyMethod(int input)
         {
-            int answer = (input * input2);
+            int answer = (input + 10);
             return answer;
 
         }
-        public static int Add(decimal input3, decimal input4)
+        //input decimal
+        public static int MyMethod(decimal input2)
         {
-            int answer2 = Convert.ToInt32(input3 + input4);
+            int answer2 = Convert.ToInt32(input2 + 5);
             return answer2;
 
+
         }
-        public static string String(string input5, string input6)
+        //input string
+        public static int MyMethod(string input3)
         {
-            string answer3 = Convert.ToString(input5 + input6);
+            int answer3 = Convert.ToInt32(input3)+2;
             return answer3;
 
         }

@@ -1,16 +1,16 @@
 ﻿<Properties StartupConfiguration="{C3A6A2FE-5C53-4E04-9CBC-7635EBE30C67}|Default">
   <MonoDevelop.Ide.ItemProperties.Main__method PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Main_method/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Main_method/Math.cs">
     <Files>
-      <File FileName="Main_method/Program.cs" Line="47" Column="6" />
-      <File FileName="Main_method/Math.cs" Line="24" Column="7" />
+      <File FileName="Main_method/Program.cs" Line="41" Column="1" />
+      <File FileName="Main_method/Math.cs" Line="28" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Main_method" expanded="True">
             <Node name="Main_method" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Math.cs" selected="True" />
             </Node>
           </Node>
         </State>
