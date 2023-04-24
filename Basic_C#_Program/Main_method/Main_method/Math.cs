@@ -4,7 +4,7 @@ namespace Main_method
     public  class Math
 
     {
-       // adding integers
+       //input integer
 
         public static int MyMethod(int input)
         {

@@ -1,0 +1,13 @@
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Method_submission/Method_submission/bin/Debug/netcoreapp3.1/Method_submission.deps.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Method_submission/Method_submission/bin/Debug/netcoreapp3.1/Method_submission.runtimeconfig.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Method_submission/Method_submission/bin/Debug/netcoreapp3.1/Method_submission.runtimeconfig.dev.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Method_submission/Method_submission/bin/Debug/netcoreapp3.1/Method_submission.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Method_submission/Method_submission/bin/Debug/netcoreapp3.1/Method_submission.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Method_submission/Method_submission/obj/Debug/netcoreapp3.1/Method_submission.csproj.AssemblyReference.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Method_submission/Method_submission/obj/Debug/netcoreapp3.1/Method_submission.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Method_submission/Method_submission/obj/Debug/netcoreapp3.1/Method_submission.AssemblyInfoInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Method_submission/Method_submission/obj/Debug/netcoreapp3.1/Method_submission.AssemblyInfo.cs
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Method_submission/Method_submission/obj/Debug/netcoreapp3.1/Method_submission.csproj.CoreCompileInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Method_submission/Method_submission/obj/Debug/netcoreapp3.1/Method_submission.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Method_submission/Method_submission/obj/Debug/netcoreapp3.1/Method_submission.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Method_submission/Method_submission/obj/Debug/netcoreapp3.1/Method_submission.genruntimeconfig.cache
