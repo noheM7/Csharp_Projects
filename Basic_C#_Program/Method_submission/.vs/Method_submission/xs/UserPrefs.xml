@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{A488C043-7349-4674-90C0-1C986B78C475}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Method_submission/Math.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Method_submission/Program.cs">
     <Files>
-      <File FileName="Method_submission/Program.cs" Line="11" Column="6" />
-      <File FileName="Method_submission/Math.cs" Line="8" Column="1" />
+      <File FileName="Method_submission/Program.cs" Line="15" Column="61" />
+      <File FileName="Method_submission/Math.cs" Line="6" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Method_submission" expanded="True">
             <Node name="Method_submission" expanded="True">
-              <Node name="Math.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -22,5 +22,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Method__submission FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Method__submission PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
