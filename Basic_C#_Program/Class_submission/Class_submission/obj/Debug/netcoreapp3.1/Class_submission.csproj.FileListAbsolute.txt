@@ -1,0 +1,13 @@
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Class_submission/Class_submission/bin/Debug/netcoreapp3.1/Class_submission.deps.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Class_submission/Class_submission/bin/Debug/netcoreapp3.1/Class_submission.runtimeconfig.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Class_submission/Class_submission/bin/Debug/netcoreapp3.1/Class_submission.runtimeconfig.dev.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Class_submission/Class_submission/bin/Debug/netcoreapp3.1/Class_submission.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Class_submission/Class_submission/bin/Debug/netcoreapp3.1/Class_submission.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Class_submission/Class_submission/obj/Debug/netcoreapp3.1/Class_submission.csproj.AssemblyReference.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Class_submission/Class_submission/obj/Debug/netcoreapp3.1/Class_submission.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Class_submission/Class_submission/obj/Debug/netcoreapp3.1/Class_submission.AssemblyInfoInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Class_submission/Class_submission/obj/Debug/netcoreapp3.1/Class_submission.AssemblyInfo.cs
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Class_submission/Class_submission/obj/Debug/netcoreapp3.1/Class_submission.csproj.CoreCompileInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Class_submission/Class_submission/obj/Debug/netcoreapp3.1/Class_submission.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Class_submission/Class_submission/obj/Debug/netcoreapp3.1/Class_submission.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Class_submission/Class_submission/obj/Debug/netcoreapp3.1/Class_submission.genruntimeconfig.cache

@@ -3,7 +3,7 @@ namespace Method_submission
 {
     public class Math
     {
-        public static int  multiply(int input1, int input2)
+        public static int  multiply(int input1, int input2 = 20 )
         {
            int answer = input1 * input2;
             return answer;

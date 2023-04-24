@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{81625851-18AE-4953-A6EE-FD9DF99ED20D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Class_submission/Program.cs">
+    <Files>
+      <File FileName="Class_submission/Program.cs" Line="17" Column="1" />
+      <File FileName="Class_submission/Math.cs" Line="13" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Class_submission" expanded="True">
+            <Node name="Class_submission" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Class__submission PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
