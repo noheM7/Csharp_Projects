@@ -9,6 +9,7 @@ namespace Class_submission
             int answer = input / input2;
             Console.WriteLine(input + "/" + "2" + "=" + answer);
         }
+        //method with output parameters
         public static int Mathmethod(out int x, out int y)
         {
 
