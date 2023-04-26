@@ -1,22 +1,22 @@
 ﻿<Properties StartupConfiguration="{9A51D3FA-434E-40D8-8B89-2A2A8DE1A8A9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Methods_Objects_submission/Person.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Methods_Objects_submission/Program.cs">
     <Files>
-      <File FileName="Methods_Objects_submission/Program.cs" Line="1" Column="1" />
-      <File FileName="Methods_Objects_submission/Person.cs" Line="1" Column="1" />
+      <File FileName="Methods_Objects_submission/Program.cs" Line="20" Column="1" />
+      <File FileName="Methods_Objects_submission/Person.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Methods_Objects_submission" expanded="True">
             <Node name="Methods_Objects_submission" expanded="True">
-              <Node name="Person.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Methods__Objects__submission FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Methods__Objects__submission PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

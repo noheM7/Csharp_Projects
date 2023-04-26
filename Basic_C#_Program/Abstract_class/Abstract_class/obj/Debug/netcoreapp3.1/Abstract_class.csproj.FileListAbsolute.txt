@@ -1,0 +1,13 @@
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Abstract_class/Abstract_class/bin/Debug/netcoreapp3.1/Abstract_class.deps.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Abstract_class/Abstract_class/bin/Debug/netcoreapp3.1/Abstract_class.runtimeconfig.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Abstract_class/Abstract_class/bin/Debug/netcoreapp3.1/Abstract_class.runtimeconfig.dev.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Abstract_class/Abstract_class/bin/Debug/netcoreapp3.1/Abstract_class.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Abstract_class/Abstract_class/bin/Debug/netcoreapp3.1/Abstract_class.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Abstract_class/Abstract_class/obj/Debug/netcoreapp3.1/Abstract_class.csproj.AssemblyReference.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Abstract_class/Abstract_class/obj/Debug/netcoreapp3.1/Abstract_class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Abstract_class/Abstract_class/obj/Debug/netcoreapp3.1/Abstract_class.AssemblyInfoInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Abstract_class/Abstract_class/obj/Debug/netcoreapp3.1/Abstract_class.AssemblyInfo.cs
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Abstract_class/Abstract_class/obj/Debug/netcoreapp3.1/Abstract_class.csproj.CoreCompileInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Abstract_class/Abstract_class/obj/Debug/netcoreapp3.1/Abstract_class.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Abstract_class/Abstract_class/obj/Debug/netcoreapp3.1/Abstract_class.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Abstract_class/Abstract_class/obj/Debug/netcoreapp3.1/Abstract_class.genruntimeconfig.cache
