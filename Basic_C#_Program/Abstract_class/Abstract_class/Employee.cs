@@ -5,7 +5,11 @@ namespace Abstract_class
     {
         public void Quit(Employee employee)
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Employee Quit!!");
+
+
         }
+
+     
     }
 }

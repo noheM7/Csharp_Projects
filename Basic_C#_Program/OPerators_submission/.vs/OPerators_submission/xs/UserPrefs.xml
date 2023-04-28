@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{118D9CE1-97B6-4961-BAF2-F77EE6AF0EAE}|Default">
+  <MonoDevelop.Ide.ItemProperties.Operators__submission FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OPerators_submission/Employee.cs">
+    <Files>
+      <File FileName="OPerators_submission/Program.cs" Line="1" Column="1" />
+      <File FileName="OPerators_submission/Employee.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OPerators_submission" expanded="True">
+            <Node name="Operators_submission" expanded="True">
+              <Node name="Employee.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -9,9 +9,14 @@ namespace Abstract_class
             Employee name = new Employee();
             name.firstName = "Sample";
             name.lastName = " Student";
-           name.SayName();
-        }
-
+            Employee employee = new Employee() { firstName = "Sample", lastName = " Student" };
+            name.SayName();
+        
+        IQuittable quittable = new Employee();
+            
+                quittable.Quit(employee);
+            }
+           
     }
 }
 
