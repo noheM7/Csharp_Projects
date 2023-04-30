@@ -1,0 +1,13 @@
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/OPerators_submission/OPerators_submission/bin/Debug/netcoreapp3.1/OPerators_submission.deps.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/OPerators_submission/OPerators_submission/bin/Debug/netcoreapp3.1/OPerators_submission.runtimeconfig.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/OPerators_submission/OPerators_submission/bin/Debug/netcoreapp3.1/OPerators_submission.runtimeconfig.dev.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/OPerators_submission/OPerators_submission/bin/Debug/netcoreapp3.1/OPerators_submission.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/OPerators_submission/OPerators_submission/bin/Debug/netcoreapp3.1/OPerators_submission.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/OPerators_submission/OPerators_submission/obj/Debug/netcoreapp3.1/OPerators_submission.csproj.AssemblyReference.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/OPerators_submission/OPerators_submission/obj/Debug/netcoreapp3.1/OPerators_submission.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/OPerators_submission/OPerators_submission/obj/Debug/netcoreapp3.1/OPerators_submission.AssemblyInfoInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/OPerators_submission/OPerators_submission/obj/Debug/netcoreapp3.1/OPerators_submission.AssemblyInfo.cs
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/OPerators_submission/OPerators_submission/obj/Debug/netcoreapp3.1/OPerators_submission.csproj.CoreCompileInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/OPerators_submission/OPerators_submission/obj/Debug/netcoreapp3.1/OPerators_submission.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/OPerators_submission/OPerators_submission/obj/Debug/netcoreapp3.1/OPerators_submission.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/OPerators_submission/OPerators_submission/obj/Debug/netcoreapp3.1/OPerators_submission.genruntimeconfig.cache
