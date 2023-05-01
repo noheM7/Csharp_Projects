@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{445363CE-ECF4-4F2D-BC81-1D199ED1E7AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Parsing_Enums/Program.cs">
+    <Files>
+      <File FileName="Parsing_Enums/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Parsing_Enums" expanded="True">
+            <Node name="Parsing_Enums" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Parsing__Enums FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
