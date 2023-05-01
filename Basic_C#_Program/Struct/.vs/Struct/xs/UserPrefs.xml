@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{445363CE-ECF4-4F2D-BC81-1D199ED1E7AD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Parsing_Enums/Program.cs">
+﻿<Properties StartupConfiguration="{ACD9997B-0191-4C0A-B57B-B9D67F04F39E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Struct/Program.cs">
     <Files>
-      <File FileName="Parsing_Enums/Program.cs" Line="15" Column="16" />
+      <File FileName="Struct/Program.cs" Line="19" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Parsing_Enums" expanded="True">
-            <Node name="Parsing_Enums" expanded="True">
+          <Node name="Struct" expanded="True">
+            <Node name="Struct" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,9 +15,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Struct PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Parsing__Enums PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

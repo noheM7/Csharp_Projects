@@ -1,0 +1,13 @@
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Struct/Struct/bin/Debug/netcoreapp3.1/Struct.deps.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Struct/Struct/bin/Debug/netcoreapp3.1/Struct.runtimeconfig.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Struct/Struct/bin/Debug/netcoreapp3.1/Struct.runtimeconfig.dev.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Struct/Struct/bin/Debug/netcoreapp3.1/Struct.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Struct/Struct/bin/Debug/netcoreapp3.1/Struct.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Struct/Struct/obj/Debug/netcoreapp3.1/Struct.csproj.AssemblyReference.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Struct/Struct/obj/Debug/netcoreapp3.1/Struct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Struct/Struct/obj/Debug/netcoreapp3.1/Struct.AssemblyInfoInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Struct/Struct/obj/Debug/netcoreapp3.1/Struct.AssemblyInfo.cs
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Struct/Struct/obj/Debug/netcoreapp3.1/Struct.csproj.CoreCompileInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Struct/Struct/obj/Debug/netcoreapp3.1/Struct.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Struct/Struct/obj/Debug/netcoreapp3.1/Struct.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Struct/Struct/obj/Debug/netcoreapp3.1/Struct.genruntimeconfig.cache
