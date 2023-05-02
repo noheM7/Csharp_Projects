@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6713217F-2CC3-425D-ACC4-A3C79065EF25}|Default">
+  <MonoDevelop.Ide.ItemProperties.Constructor FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Constructor/chain.cs">
+    <Files>
+      <File FileName="Constructor/Program.cs" Line="1" Column="1" />
+      <File FileName="Constructor/chain.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Constructor" expanded="True">
+            <Node name="Constructor" expanded="True">
+              <Node name="chain.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Constructor/Constructor/bin/Debug/netcoreapp3.1/Constructor.deps.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Constructor/Constructor/bin/Debug/netcoreapp3.1/Constructor.runtimeconfig.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Constructor/Constructor/bin/Debug/netcoreapp3.1/Constructor.runtimeconfig.dev.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Constructor/Constructor/bin/Debug/netcoreapp3.1/Constructor.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Constructor/Constructor/bin/Debug/netcoreapp3.1/Constructor.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Constructor/Constructor/obj/Debug/netcoreapp3.1/Constructor.csproj.AssemblyReference.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Constructor/Constructor/obj/Debug/netcoreapp3.1/Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Constructor/Constructor/obj/Debug/netcoreapp3.1/Constructor.AssemblyInfoInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Constructor/Constructor/obj/Debug/netcoreapp3.1/Constructor.AssemblyInfo.cs
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Constructor/Constructor/obj/Debug/netcoreapp3.1/Constructor.csproj.CoreCompileInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Constructor/Constructor/obj/Debug/netcoreapp3.1/Constructor.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Constructor/Constructor/obj/Debug/netcoreapp3.1/Constructor.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Constructor/Constructor/obj/Debug/netcoreapp3.1/Constructor.genruntimeconfig.cache
