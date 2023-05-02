@@ -1,0 +1,13 @@
+/Users/nohemesfien/Projects/Date_Time/Date_Time/bin/Debug/netcoreapp3.1/Date_Time.deps.json
+/Users/nohemesfien/Projects/Date_Time/Date_Time/bin/Debug/netcoreapp3.1/Date_Time.runtimeconfig.json
+/Users/nohemesfien/Projects/Date_Time/Date_Time/bin/Debug/netcoreapp3.1/Date_Time.runtimeconfig.dev.json
+/Users/nohemesfien/Projects/Date_Time/Date_Time/bin/Debug/netcoreapp3.1/Date_Time.dll
+/Users/nohemesfien/Projects/Date_Time/Date_Time/bin/Debug/netcoreapp3.1/Date_Time.pdb
+/Users/nohemesfien/Projects/Date_Time/Date_Time/obj/Debug/netcoreapp3.1/Date_Time.csproj.AssemblyReference.cache
+/Users/nohemesfien/Projects/Date_Time/Date_Time/obj/Debug/netcoreapp3.1/Date_Time.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nohemesfien/Projects/Date_Time/Date_Time/obj/Debug/netcoreapp3.1/Date_Time.AssemblyInfoInputs.cache
+/Users/nohemesfien/Projects/Date_Time/Date_Time/obj/Debug/netcoreapp3.1/Date_Time.AssemblyInfo.cs
+/Users/nohemesfien/Projects/Date_Time/Date_Time/obj/Debug/netcoreapp3.1/Date_Time.csproj.CoreCompileInputs.cache
+/Users/nohemesfien/Projects/Date_Time/Date_Time/obj/Debug/netcoreapp3.1/Date_Time.dll
+/Users/nohemesfien/Projects/Date_Time/Date_Time/obj/Debug/netcoreapp3.1/Date_Time.pdb
+/Users/nohemesfien/Projects/Date_Time/Date_Time/obj/Debug/netcoreapp3.1/Date_Time.genruntimeconfig.cache
