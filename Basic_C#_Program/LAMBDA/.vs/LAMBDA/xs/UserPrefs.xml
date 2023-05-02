@@ -1,15 +1,18 @@
 ﻿<Properties StartupConfiguration="{9C063476-23E9-409A-BC95-7BFBBB13B5BD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LAMBDA/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LAMBDA/Employee.cs">
     <Files>
-      <File FileName="LAMBDA/Program.cs" Line="46" Column="82" />
-      <File FileName="LAMBDA/Employee.cs" Line="16" Column="15" />
+      <File FileName="LAMBDA/Program.cs" Line="27" Column="1" />
+      <File FileName="LAMBDA/Employee.cs" Line="13" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LAMBDA" expanded="True">
             <Node name="LAMBDA" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="ConnectedServicesFolder" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>

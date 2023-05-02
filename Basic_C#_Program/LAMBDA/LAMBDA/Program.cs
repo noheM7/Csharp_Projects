@@ -21,8 +21,8 @@ namespace LAMBDA
                 new Employee{ FirstName="Tom", LastName="F", Id=6},
                 new Employee{ FirstName="Tiger", LastName="G", Id=7},
                 new Employee{ FirstName="Mark", LastName="H", Id=8},
-                new Employee{ FirstName="joe", LastName="I", Id=9},
-                new Employee{ FirstName="joe", LastName="J", Id=10}
+                new Employee{ FirstName="Joe", LastName="I", Id=9},
+                new Employee{ FirstName="Joe", LastName="J", Id=10}
 
 
                 };

@@ -1,0 +1,13 @@
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Twenty_One/Twenty_One/bin/Debug/netcoreapp3.1/Twenty_One.deps.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Twenty_One/Twenty_One/bin/Debug/netcoreapp3.1/Twenty_One.runtimeconfig.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Twenty_One/Twenty_One/bin/Debug/netcoreapp3.1/Twenty_One.runtimeconfig.dev.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Twenty_One/Twenty_One/bin/Debug/netcoreapp3.1/Twenty_One.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Twenty_One/Twenty_One/bin/Debug/netcoreapp3.1/Twenty_One.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Twenty_One/Twenty_One/obj/Debug/netcoreapp3.1/Twenty_One.csproj.AssemblyReference.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Twenty_One/Twenty_One/obj/Debug/netcoreapp3.1/Twenty_One.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Twenty_One/Twenty_One/obj/Debug/netcoreapp3.1/Twenty_One.AssemblyInfoInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Twenty_One/Twenty_One/obj/Debug/netcoreapp3.1/Twenty_One.AssemblyInfo.cs
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Twenty_One/Twenty_One/obj/Debug/netcoreapp3.1/Twenty_One.csproj.CoreCompileInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Twenty_One/Twenty_One/obj/Debug/netcoreapp3.1/Twenty_One.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Twenty_One/Twenty_One/obj/Debug/netcoreapp3.1/Twenty_One.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Twenty_One/Twenty_One/obj/Debug/netcoreapp3.1/Twenty_One.genruntimeconfig.cache
