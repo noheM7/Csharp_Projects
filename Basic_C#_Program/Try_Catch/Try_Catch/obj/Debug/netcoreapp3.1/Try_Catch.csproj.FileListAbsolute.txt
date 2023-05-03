@@ -1,0 +1,13 @@
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Try_Catch/Try_Catch/bin/Debug/netcoreapp3.1/Try_Catch.deps.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Try_Catch/Try_Catch/bin/Debug/netcoreapp3.1/Try_Catch.runtimeconfig.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Try_Catch/Try_Catch/bin/Debug/netcoreapp3.1/Try_Catch.runtimeconfig.dev.json
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Try_Catch/Try_Catch/bin/Debug/netcoreapp3.1/Try_Catch.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Try_Catch/Try_Catch/bin/Debug/netcoreapp3.1/Try_Catch.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Try_Catch/Try_Catch/obj/Debug/netcoreapp3.1/Try_Catch.csproj.AssemblyReference.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Try_Catch/Try_Catch/obj/Debug/netcoreapp3.1/Try_Catch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Try_Catch/Try_Catch/obj/Debug/netcoreapp3.1/Try_Catch.AssemblyInfoInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Try_Catch/Try_Catch/obj/Debug/netcoreapp3.1/Try_Catch.AssemblyInfo.cs
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Try_Catch/Try_Catch/obj/Debug/netcoreapp3.1/Try_Catch.csproj.CoreCompileInputs.cache
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Try_Catch/Try_Catch/obj/Debug/netcoreapp3.1/Try_Catch.dll
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Try_Catch/Try_Catch/obj/Debug/netcoreapp3.1/Try_Catch.pdb
+/Users/nohemesfien/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Basic_C#_Program/Try_Catch/Try_Catch/obj/Debug/netcoreapp3.1/Try_Catch.genruntimeconfig.cache

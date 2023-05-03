@@ -1,15 +1,13 @@
-﻿<Properties StartupConfiguration="{6713217F-2CC3-425D-ACC4-A3C79065EF25}|Default">
-  <MonoDevelop.Ide.ItemProperties.Constructor PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Constructor/Program.cs">
+﻿<Properties StartupConfiguration="{EDA6F075-6415-4B42-9835-84A7FF110417}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Try_Catch/Program.cs">
     <Files>
-      <File FileName="Constructor/Program.cs" Line="17" Column="1" />
-      <File FileName="Constructor/chain.cs" Line="19" Column="45" />
+      <File FileName="Try_Catch/Program.cs" Line="9" Column="47" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Constructor" expanded="True">
-            <Node name="Constructor" expanded="True">
+          <Node name="Try_Catch" expanded="True">
+            <Node name="Try_Catch" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,6 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Try__Catch FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
