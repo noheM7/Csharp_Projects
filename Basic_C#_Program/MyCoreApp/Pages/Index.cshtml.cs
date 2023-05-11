@@ -14,7 +14,10 @@ public class IndexModel : PageModel
 
     public void OnGet()
     {
-
+        {
+            string dateTime = DateTime.Now.ToShortDateString();
+            ViewData["TimeStamp"] = dateTime;
+        }
     }
 }
 

@@ -4,17 +4,19 @@
     ViewData["Title"] = "Home page";
 }
 
-<!-- Single statement block -->
-@{ var myMessage = "Welcome"; }
-
-
-<h1> @myMessage</h1>
-
-<!-- Multi-statement block -->
 @{
-    var greeting = "Visit our Privacy Page.";
-   
-    
+    var txt = "";
+    if (DateTime.Now.Hour > 12)
+    { txt = "Good Evening"; }
+    else
+    { txt = "Good Morning"; }
 }
-<p> @greeting</p>
+<html>
+<body style="background-color:lightblue;">
+    <p style="font-size:30px; ">@txt it is  @ViewData["TimeStamp"]</p>
+ 
+</body>
+</html>
+
+
 
