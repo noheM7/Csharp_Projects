@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{EDA6F075-6415-4B42-9835-84A7FF110417}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Try_Catch/Program.cs">
     <Files>
-      <File FileName="Try_Catch/Program.cs" Line="9" Column="47" />
+      <File FileName="Try_Catch/Program.cs" Line="15" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Try__Catch FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Try__Catch PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

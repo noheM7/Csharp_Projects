@@ -12,7 +12,7 @@ namespace Try_Catch
                 DateTime now = DateTime.Now;
                 Console.WriteLine("input age");
                 int age = Convert.ToInt32(Console.ReadLine());
-                if (age<1)
+                if (age<=1)
                 {
                     throw new Exception();
                 }
@@ -25,6 +25,7 @@ namespace Try_Catch
             }
             catch (Exception )
             {
+
                 Console.WriteLine("Something went wrong.");
             }
         }

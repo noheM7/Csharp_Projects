@@ -1,0 +1,22 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@{
+    var txt = "";
+    if (DateTime.Now.Hour > 12)
+    { txt = "Good Evening"; }
+    else
+    { txt = "Good Morning"; }
+}
+<html>
+<body style="background-color:lightblue;">
+    <h2 style="font-size:30px; color:red; ">@txt it is  @ViewData["TimeStamp"]</h2>
+ 
+</body>
+</html>
+
+
+
